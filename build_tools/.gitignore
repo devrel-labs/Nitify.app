@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+# Build outputs
+dist/
+android/
+www/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# System files
+.DS_Store
+
+# Environment
+.env
