@@ -81,7 +81,7 @@ Think of it as your **personal hub** to capture, organize, and share content eff
 
 ```bash
 # Clone the repo and enter backend
-git clone git@github.com:nee-hit476/Nitify.app.git
+git clone git@github.com:devrel-labs/Nitify.app.git
 cd Nitify-main
 
 # Install dependencies
