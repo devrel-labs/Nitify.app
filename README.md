@@ -15,6 +15,8 @@ Think of it as your **personal hub** to capture, organize, and share content eff
 ##  Mac
 [Download dmg](https://drive.google.com/file/d/1Lht5CQfWDlzaPGWl6nBXE_CJdOPL4pou/view?usp=sharing) -> Nitify.dmg
 
+##  web
+[visitweb](https://nitify-frontend.vercel.app/signin) -> Nitify
 
 ## Features
 
